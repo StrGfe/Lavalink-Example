@@ -16,8 +16,8 @@ Este repositorio contiene un **ejemplo de servidor Lavalink**, un sistema de tra
 Clona el repositorio 
 
 ```sh
-git clone https://github.com/StrGfe/Lavalink.git
-cd Lavalink
+git clone https://github.com/StrGfe/Lavalink-Example
+cd Lavalink-Example
 ```
 Agrega tus datos al **application.yml** y luego arranca tu servidor
 ```sh
