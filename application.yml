@@ -154,7 +154,7 @@ plugins:
         enabled: true
         oauth:
             enabled: true
-            refreshToken: your refreshToken #To get the refreshToken you must comment out the "refreshToken" line and then go to the link that it gives you in the console and do what it asks you, after logging in the refreshToken will appear in the console
+            refreshToken: your refreshToken #To get the refreshToken you must comment out the "refreshToken" line and then go to the link that it gives you in the console and do what it asks you, after logging in the refreshToken will appear in the console.
 sentry:
     dsn: ""
     environment: ""
